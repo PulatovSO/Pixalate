@@ -78,7 +78,7 @@ body {
 .block-wrap {
   display: grid;
   grid-template-columns: repeat(3, 1fr);
-  grid-gap: 0;
+  grid-gap: 3rem;
   margin: 0;
 }
 
